@@ -1,0 +1,20 @@
+{
+  "name": "@paiameya/relib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com:paiameya/relib.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "antd": "^4.4.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
